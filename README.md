@@ -6,9 +6,9 @@ A Rust implementation of Anthropic's [Model Context Protocol (MCP)](https://docs
 
 ## Examples
 
-**[View Demo on Github Tools MCP Client/Server](https://asciinema.org/a/708211)**
-
-![MCPR Demo](https://asciinema.org/a/708211.png)
+| **[View Demo on Github Tools MCP Client/Server](https://asciinema.org/a/708211)** |
+|:---:|
+| [![](https://asciinema.org/a/708211.png)](https://asciinema.org/a/708211) |
 
 Check out our [GitHub Tools example](examples/github-tools/README.md) for a complete implementation of an MCP client-server application that interacts with GitHub repositories. This example demonstrates how to build a client that can query repository READMEs and search for repositories, with support for multiple servers and client-server disconnection scenarios. It's a great starting point for understanding how to build your own MCP applications.
 
